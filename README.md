@@ -1,5 +1,12 @@
-### Hi there 👋
+<h2> Hi, I'm Owen Yaipen! 👋<img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="50"></h2>
 
+```javascript
+const OYaipen = {
+  technologies: 'web',
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [Vue, Vuex, Node, Nuxt],
+}
+```
 <!--
 **OYaipen/OYaipen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
