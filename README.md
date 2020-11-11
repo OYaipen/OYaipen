@@ -1,4 +1,4 @@
-<h2> Hi, I'm Owen Yaipen! 👋<img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="50"></h2>
+<h2> Hi, I'm David Yaipen! 👋<img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="50"></h2>
 
 ```javascript
 const OYaipen = {
