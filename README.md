@@ -4,7 +4,7 @@
 const OYaipen = {
   technologies: 'web',
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [Vue, Vuex, Node, Nuxt, React, ReactNative],
+  tools: [Vue, Vuex, Node, Nuxt, React, ReactNative, Angular],
 }
 ```
 <!--
