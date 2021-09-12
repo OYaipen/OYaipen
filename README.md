@@ -2,10 +2,10 @@
 
 ```javascript
 const OYaipen = {
-  technologies: 'web',
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [Vue, Vuex, Node, Nuxt, React, ReactNative, Angular],
-}
+  technologies: ['web', 'mobile'],
+  code: [Javascript, Typescript, HTML, CSS, Dart],
+  tools: [Vue, Vuex, Node, Nuxt, React, ReactNative, Angular, Flutter],
+};
 ```
 <!--
 **OYaipen/OYaipen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
