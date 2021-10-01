@@ -3,8 +3,17 @@
 ```javascript
 const OYaipen = {
   technologies: ['web', 'mobile'],
-  code: [Javascript, Typescript, HTML, CSS, Dart],
-  tools: [Vue, Vuex, Node, Nuxt, React, ReactNative, Angular, Flutter],
+  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Dart'],
+  tools: [
+    'Node',
+    'Vue',
+    'Angular',
+    'React',
+    'Nuxt',
+    'Nest Js',
+    'ReactNative',
+    'Flutter',
+  ],
 };
 ```
 <!--
