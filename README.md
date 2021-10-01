@@ -1,21 +1,33 @@
-<h2> Hi, I'm David Yaipen! 👋<img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="50"></h2>
+### Hi there 👋 
+####I'm David Yaipen! Developer working in Lima, Perú.
 
 ```javascript
-const OYaipen = {
-  technologies: ['web', 'mobile'],
-  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Dart'],
-  tools: [
-    'Node',
-    'Vue',
-    'Angular',
-    'React',
-    'Nuxt',
-    'Nest Js',
-    'ReactNative',
-    'Flutter',
-  ],
-};
+    const OYaipen = {
+      technologies: ['web', 'mobile'],
+      code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Dart'],
+      tools: [
+        'Node',
+        'Vue',
+        'Angular',
+        'React',
+        'Nuxt',
+        'Nest Js',
+        'ReactNative',
+        'Flutter',
+      ],
+    };
 ```
+
+##### NOW
+- ✨ Crafted last [Derco](https://www.derco.com.pe) website;
+
+##### BIO
+- 🏢 I'm currently working at **Likeseasons**
+- ⚙️ I use daily: `.js`, `.ts` , `.html`, `.css`, `.vue`
+- 🌱 Learning all about **Open Source**
+
+
+
 <!--
 **OYaipen/OYaipen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
