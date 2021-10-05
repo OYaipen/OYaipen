@@ -23,7 +23,7 @@
 
 ##### BIO
 - 🏢 I'm currently working at **Likeseasons**
-- ⚙️ I use daily: `.js`, `.ts` , `.html`, `.css`, `.vue`
+- ⚙️ I use daily: `.js`, `.ts`, `.scss`, `.vue`
 - 🌱 Learning all about **Open Source**
 
 
