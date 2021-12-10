@@ -20,6 +20,8 @@
 
 ##### NOW
 - ✨ Crafted last [Derco](https://www.derco.com.pe) website;
+- 💬 Engineering Contact Center Systems in BBVA;
+
 
 ##### BIO
 - 🏢 I'm currently working at **Likeseasons**
