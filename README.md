@@ -24,7 +24,7 @@
 
 
 ##### BIO
-- 🏢 I'm currently working at **Likeseasons**
+- 🏢 I'm currently working at **Entelgy**
 - ⚙️ I use daily: `.js`, `.ts`, `.scss`, `.vue`
 - 🌱 Learning all about **Open Source**
 
