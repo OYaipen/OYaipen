@@ -19,8 +19,9 @@
 ```
 
 ##### NOW
-- ✨ Crafted last [Derco](https://www.derco.com.pe) website;
 - 💬 Engineering Contact Center Systems in BBVA;
+- ✨ Crafted last [Derco](https://www.derco.com.pe) website;
+- 👯 I’m looking to collaborate on [SmartCore](https://web.smartcore.pe/)
 
 
 ##### BIO
