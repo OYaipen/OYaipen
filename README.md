@@ -1,19 +1,20 @@
 ### Hi there 👋 
-#### I'm David Yaipen! Developer working in Lima, Perú.
+#### I'm David Yaipen! Developer working remotely in Piura, Perú.
 
 ```javascript
     const OYaipen = {
-      technologies: ['web', 'mobile'],
-      code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Dart'],
+      technologies: ['web'],
+      code: [
+        'Javascript',
+        'Typescript',
+        'HTML',
+        'CSS'
+      ],
       tools: [
-        'Node',
         'Vue',
-        'Angular',
         'React',
         'Nuxt',
-        'Nest Js',
-        'ReactNative',
-        'Flutter',
+        'Nest Js'
       ],
     };
 ```
@@ -27,7 +28,7 @@
 ##### BIO
 - 🏢 I'm currently working at **Entelgy**
 - ⚙️ I use daily: `.js`, `.ts`, `.scss`, `.vue`
-- 🌱 Learning all about **Open Source**
+<!-- - 🌱 Learning all about **Open Source** -->
 
 
 
